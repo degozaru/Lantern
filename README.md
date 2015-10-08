@@ -1,6 +1,6 @@
 # Lantern
 Survivor Management for Kingdom Death
-![Alt text](/Images/chad.jpg?raw=true "Screenshot")
+![Alt text](https://raw.githubusercontent.com/degozaru/Lantern/master/Images/chad.png "Screenshot")
 
 ## Kingdom Death
 Kingdom Death is a game made by Adam Poots. Please support him at www.kingdomdeath.com
