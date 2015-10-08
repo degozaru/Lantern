@@ -9,9 +9,8 @@ Lantern replicates the management of survivors through a graphical UI. People wi
 
 ## To-do
 - [x] Create survivor management logic **(TESTING)**
-- [] Create management logic (alive/dead list)
-- [] Create settlement sheet logic
-- 
+- [ ] Create management logic (alive/dead list)
+- [ ] Create settlement sheet logic
 
 ##Bugs
 pls help
